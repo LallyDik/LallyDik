@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+# my Skills:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,anaconda,c,cs,cpp,clion,docker,react,dotnet,eclipse,gcp,py,pycharm,ai,java,nodejs,maven,mongodb)](https://skillicons.dev)
 <!--
 **LallyDik/LallyDik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
